@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "Osmar alterou este programa" );
+        System.out.println("Arthur alterou este programa");
     }
 }
